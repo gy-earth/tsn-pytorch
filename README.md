@@ -62,3 +62,4 @@ python test_models.py ucf101 Flow <ucf101_rgb_val_list> ucf101_bninception_flow_
    --arch BNInception --save_scores <score_file_name> --flow_pref flow_
 
 ```
+https://blog.csdn.net/genous110/article/details/88562042
